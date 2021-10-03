@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Anonymous Clippings";
+  src:
+    url(fonts/anonymous-clippings.woff2) format("woff2"),
+    url(fonts/anonymous-clippings.woff) format("woff");
+  font-display: swap;
+}
